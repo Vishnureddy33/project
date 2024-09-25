@@ -1,0 +1,11 @@
+Input format:
+Enter your choice: 1
+Enter pet type (e.g., Dog, Cat, Fish): Dog
+Enter pet breed: Golden Retriever
+Enter pet age: 5
+Enter pet price: 300.00
+Enter your choice: 2
+Type    Breed           Age     Price
+-------------------------------------
+Dog     Golden Retriever  5    300.00
+Enter your choice: 3
